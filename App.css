@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+.e-tooltip{ display: contents;}
+ .kKJZfg{font-size: 1.5rem;}
+ .imageSize{ border-radius: 50%; width: 84px; margin-bottom: 20px; 
+  margin-left: 40px;
+}
+ .mainProfile{display: flex; margin: 0 auto; width: 79%;
+  margin-top: 15px;}
+  .CloseIcon{ text-align: right; width: 251px !important;
+    display: revert !important; font-size: 18px !important;}
+.home,
+.reports,
+.products,
+.team,
+.reports {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
